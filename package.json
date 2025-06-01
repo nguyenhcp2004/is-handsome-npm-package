@@ -1,0 +1,23 @@
+{
+  "name": "is-handsome",
+  "version": "1.0.0",
+  "description": "Is the handsome boy?",
+  "keywords": [
+    "handsome"
+  ],
+  "homepage": "https://github.com/nguyenhcp2004/is-handsome-npm-package#readme",
+  "bugs": {
+    "url": "https://github.com/nguyenhcp2004/is-handsome-npm-package/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyenhcp2004/is-handsome-npm-package.git"
+  },
+  "license": "ISC",
+  "author": "nguyenhcp2004",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
